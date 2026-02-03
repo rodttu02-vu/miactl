@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-- update go version to 1.25.5
+- update go version to 1.25.6
 - update cobra to v1.10.2
 - update oauth2 to v0.34.0
 - update sync to v0.19.0
